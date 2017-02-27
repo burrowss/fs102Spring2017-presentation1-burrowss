@@ -4,7 +4,7 @@ This repository contains the beginning of a presentation for my spring seminar c
 
 But Professor Gregory Kapfhammer has allowed access and use of this repository for others to use.
 
-My example slides are found at: https://cdn.rawgit.com/burrowss/fs102Spring2017-presentation1-burrowss/8c934a8b/mech_kb_presentation.html
+My example slides are found at: https://cdn.rawgit.com/burrowss/fs102Spring2017-presentation1-burrowss/237a7358/seke2015_panel.html
 
 ## Installation Instructions
 
